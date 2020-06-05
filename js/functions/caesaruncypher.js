@@ -3,15 +3,15 @@ const decypher = (text, shift) => {
   const actualShift = shift % 26;
   let uncyphered = '';
 
-  for (var i = 0; i < text.length; i++) {
+  for (let i = 0; i < text.length; i += 1) {
     let code = text.charCodeAt(i);
     if(code >= 97 && code <= 122) {
-      code = code - actualShift;
+      code -= actualShift;
       if(code < 97){
-        code += 26;
+        code -= 26;
       }
     }
-    uncyphered = uncyphered+String.fromCharCode(code);
+    uncyphered += String.fromCharCode(code);
   }
   return uncyphered;
 };

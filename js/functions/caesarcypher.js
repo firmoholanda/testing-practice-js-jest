@@ -3,16 +3,16 @@ const caesar = (text, shift) => {
   const actualShift = shift % 26;
   let cyphered = '';
 
-  for (var i = 0; i < text.length; i++) {
+  for (let i = 0; i < text.length; i += 1) {
     let code = text.charCodeAt(i);
-    if(code >= 97 && code <= 122) {
-      code = code + actualShift;
-      if(code >122){
+    if (code >= 97 && code <= 122) {
+      code += actualShift;
+      if (code > 122) {
         code -= 26;
       }
     }
-    cyphered = cyphered+String.fromCharCode(code);
+    cyphered += String.fromCharCode(code);
   }
-    return cyphered;
+  return cyphered;
 };
 module.exports = caesar;
