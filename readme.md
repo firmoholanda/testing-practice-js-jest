@@ -22,7 +22,7 @@ this project can be found in https://github.com/firmoholanda/testing-practice-js
 ### ✨ [live version](https://testing-practice-js-jest)
 
 <a href="https://testing-practice-js-jest/" target="_blank">
-    <img alt="app image" src="https://github.com/firmoholanda/testing-practice-js-jest/blob/development/img/app-img.png"/>
+    <img alt="app image" src="https://github.com/firmoholanda/testing-practice-js-jest/blob/release/img/screenshot.png"/>
 </a>
 
 
