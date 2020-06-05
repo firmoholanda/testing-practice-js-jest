@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/firmoholanda/testing-practice-js-jest#readme",
   "devDependencies": {
-    "jest": "^26.0.1"
+    "jest": "^26.0.1",
+    "stylelint": "^13.6.0",
+    "stylelint-config-recommended": "^3.0.0"
   }
 }
