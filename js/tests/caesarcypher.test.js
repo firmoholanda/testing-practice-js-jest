@@ -1,4 +1,4 @@
-const caesar = require('./caesarcypher');
+const caesar = require('../functions/caesarcypher');
 
 test('should cypher something', () => {
   expect(caesar('test', 1)).toEqual('uftu');

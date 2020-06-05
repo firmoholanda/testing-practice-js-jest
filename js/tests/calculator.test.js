@@ -1,4 +1,4 @@
-const calculator = require('./calculator');
+const calculator = require('../functions/calculator');
 
 test('3 + 7 should be equal to 10', () => {
   expect(calculator.add(3, 7)).toBe(10)

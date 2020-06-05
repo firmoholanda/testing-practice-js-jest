@@ -54,8 +54,6 @@ contributions, issues, and feature requests are welcome!<br/>feel free to check 
 
 firmo holanda - [GitHub](https://github.com/firmoholanda)
 
-and
-
 eduardo bonilla - [GitHub](https://github.com/Usagib)
 
 
