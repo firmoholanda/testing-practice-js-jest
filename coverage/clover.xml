@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1591375458966" clover="3.2.0">
-  <project timestamp="1591375458968" name="All files">
-    <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7" elements="22" coveredelements="22" complexity="0" loc="15" ncloc="15" packages="1" files="3" classes="3"/>
+<coverage generated="1591376743273" clover="3.2.0">
+  <project timestamp="1591376743273" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9" elements="28" coveredelements="28" complexity="0" loc="19" ncloc="19" packages="1" files="4" classes="4"/>
+    <file name="arrayAnalysis.js" path="C:\Users\firmo\OneDrive\coding\microverse\testing-practice-js-jest\arrayAnalysis.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="7" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
     <file name="calculator.js" path="C:\Users\firmo\OneDrive\coding\microverse\testing-practice-js-jest\calculator.js">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
       <line num="1" count="1" type="stmt"/>
