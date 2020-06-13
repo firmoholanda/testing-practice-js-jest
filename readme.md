@@ -6,12 +6,11 @@ this is my personal portfolio
 
 ## 📡 technologies used
 
-- bootstrap
-- jquery
-- webpacker
+- javascript
+- jest
 - git
 
-bootstrap, jquery, webpacker and git was used on this project.
+javascript, jest and git was used on this project.
 
 
 
@@ -23,35 +22,17 @@ this project can be found in https://github.com/firmoholanda/testing-practice-js
 ### ✨ [live version](https://testing-practice-js-jest)
 
 <a href="https://testing-practice-js-jest/" target="_blank">
-    <img alt="app image" src="https://github.com/firmoholanda/testing-practice-js-jest/blob/development/img/app-img.png"/>
+    <img alt="app image" src="https://github.com/firmoholanda/testing-practice-js-jest/blob/release/img/screenshot.png"/>
 </a>
 
 
 
 ## 🔨 instructions
 
-To get started with the app, clone the repo and then install the needed gems:
+clone the repo and:
 
 ```
-$ bundle install --without production
-```
-
-Next, migrate the database:
-
-```
-$ rails db:migrate
-```
-
-Finally, run the test suite to verify that everything is working correctly:
-
-```
-$ rails test
-```
-
-If the test suite passes, you'll be ready to run the app in a local server:
-
-```
-$ rails server
+$ npm install
 ```
 
 
@@ -73,6 +54,7 @@ contributions, issues, and feature requests are welcome!<br/>feel free to check 
 
 firmo holanda - [GitHub](https://github.com/firmoholanda)
 
+eduardo bonilla - [GitHub](https://github.com/Usagib)
 
 
 ## 🙋‍♂ show your support
