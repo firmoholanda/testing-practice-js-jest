@@ -1,6 +1,6 @@
 # 📃 testing-practice-js-jest
 
-this is my personal portfolio
+Jest testing practice for JavaScript
 
 
 
